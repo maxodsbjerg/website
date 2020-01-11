@@ -1,4 +1,4 @@
-[About](https://maxodsbjerg.github.io/website/)
+[About](https://maxodsbjerg.github.io/website/about)
 
 ## Welcome to GitHub Pages
 
