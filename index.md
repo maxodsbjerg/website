@@ -1,4 +1,4 @@
-[About](https://maxodsbjerg.github.io/website/about)
+{% include navigation.html %}
 
 ## Welcome to GitHub Pages
 
